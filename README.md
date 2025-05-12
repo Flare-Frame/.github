@@ -1,4 +1,4 @@
-📸 Flare Frame
+## 📸 Flare Frame
 Flare Frame is an Android-based social media app built using Jetpack Compose, with a modern architecture and developer-friendly tech stack. It’s currently in its early development stages and is a work in progress.
 
 🚀 Project Status
