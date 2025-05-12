@@ -56,6 +56,7 @@ We may consider migrating to a unified backend solution like Supabase Auth later
 
 ## 📝 TODO
 
+- [ ] UI and UX refinement  
 - [ ] Hook up image uploads to Supabase storage buckets  
 - [ ] Implement user profile and settings  
 - [ ] Build the post feed screen  
