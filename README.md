@@ -63,3 +63,8 @@ We may consider migrating to a unified backend solution like Supabase Auth later
 - [ ] Explore potential Firebase → Supabase Auth migration  
 
 ---
+---
+
+## 📣 Disclaimer
+
+This app is still in its early phases and not yet ready for production or public release.  
